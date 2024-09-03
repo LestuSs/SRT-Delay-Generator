@@ -26,8 +26,9 @@ The new file will be located in the same folder as the original file.
 
 ## Versions
 As of now, there only exists a python version, however, in the future, I will implement it in other languages.
+
 ## License
 
-This project is licensed under the terms of the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
